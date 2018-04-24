@@ -1,0 +1,15 @@
+*/.settings/*
+*/.project*
+*.settings*
+*.project*
+*.classpath
+.springBeans
+target/
+.idea/
+*.class
+*.iml
+# Package Files #
+*.jar
+*.war
+*.ear
+.gitignore
